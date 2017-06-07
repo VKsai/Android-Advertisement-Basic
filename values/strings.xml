@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Backend</string>
+    <string name="tab1">Routes</string>
+    <string name="tab2">Account</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="first">First Name</string>
+    <string name="last">Last Name</string>
+    <string name="button_add">Add New Route</string>
+</resources>
